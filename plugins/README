@@ -1,1 +1,10 @@
 Put your Redmine plugins here.
+
+1. start c9 postgres service
+sudo service postgresql start
+
+1. https://community.c9.io/t/how-do-i-set-up-postgresql-on-c9-for-my-rails-app/2614/2
+2. http://suite.opengeo.org/docs/latest/dataadmin/pgGettingStarted/firstconnect.html
+3. https://community.c9.io/t/setting-up-postgresql/1573
+4. https://community.c9.io/t/running-a-rails-app/1615
+5. rails s -b $IP -p $PORT
